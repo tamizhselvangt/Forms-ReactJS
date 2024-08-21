@@ -3,7 +3,9 @@ import './App.css';
 import Forms from './pages/Forms';
 function App() {
   return (
-   <Forms />
+<div className='App'>
+<Forms />
+</div>
   );
 }
 
